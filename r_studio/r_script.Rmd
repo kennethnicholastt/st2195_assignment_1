@@ -1,0 +1,27 @@
+---
+title: ''
+output: html_document
+date: "2022-10-04"
+---
+
+## Hi sir, this in my comments on my working
+
+```{r}
+for (x in 1:10) 
+  print(paste("the number is",x))
+
+```
+
+## the output above is the result of the cells with code from part 2 ( R )
+
+```{python}
+
+numbers =[1,2,3,4,5,6,7,8,9,10]
+for number in numbers:
+    print("the current number is", number)
+    
+```
+
+## the output above is the result of the cells with code from part 3( Python )
+
+## R Markdown
